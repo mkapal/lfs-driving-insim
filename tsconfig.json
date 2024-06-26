@@ -8,6 +8,7 @@
     "moduleResolution": "Node",
     "target": "es2015",
     "module": "commonjs",
+    "jsx": "react-jsx",
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "esModuleInterop": true,
